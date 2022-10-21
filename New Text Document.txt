@@ -1,0 +1,3 @@
+2 ip adresss
+one for local(indside office)
+one for outside (via net)
